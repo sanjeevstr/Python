@@ -1,3 +1,3 @@
 # Python
 
-<h2>Practical Python projects with clean code and real-world applications.</h2>
+<h2>Practical Python projects with clean code </h2>
